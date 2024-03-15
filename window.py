@@ -38,7 +38,7 @@ def on_press(key):
         pass  # Special keys will throw this error
 
 
-# Create the main window
+# Create the main Autoclicker
 window = tk.Tk()
 window.title("Minecraft Autoclicker")
 window.configure(bg='light blue')
